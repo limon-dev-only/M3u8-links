@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXTINF:10,
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/8540.ts
+#EXT-X-STREAM-INF:BANDWIDTH=800000
+http://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=t_sports&formet=.m3u8
